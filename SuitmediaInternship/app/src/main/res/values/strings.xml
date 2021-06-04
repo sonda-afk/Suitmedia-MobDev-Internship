@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuitmediaInternship</string>
+    <string name="event_name">Name</string>
+    <string name="event_date">Date</string>
+    <string name="guest_name">Name</string>
+    <string name="masukan_nama_anda">Masukkan Nama Anda</string>
+    <string name="instruction_login">Masukkan Nama Anda</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="event">Pilih Event</string>
+    <string name="guest">Pilih Guest</string>
+</resources>
